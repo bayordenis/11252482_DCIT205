@@ -3,13 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Computer Science Department</title>
+    <title>About Us - Computer Science Department</title>   
+    <script src="index.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 5;
             padding: 2em;
             background-color: #f4f4f4;
+        }
+
+        video {
+            width: 100%;
+            height: 50%;
         }
 
         header {
@@ -41,7 +47,7 @@
             background-color: #333;
             color: #fff;
             text-align: center;
-            padding: 10em;
+            padding: 5em;
         }
         
     </style>
@@ -66,44 +72,12 @@
         <a href="Contact us.html">Contact Us</a>
     </nav>
 
-    <img>
+    
         <h2>About Us</h2>
         <p>
             Welcome to the About Us page of the Computer Science Department at the University of Ghana.
            </p>
-           <img src="data:image/jpeg;base64,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
-           
-           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"
-        ></img>
+           <img src="download.jpeg" alt="" ></img>
         <p>
             The Computer Science Department at the University of Ghana is a dynamic hub of innovation and learning.
              Our About Us page reflects a commitment to excellence in education, research, and community engagement.
@@ -114,7 +88,8 @@
         </p>
         <p>
          <br><b> Get to know more about us</b></br>
-         <iframe src="https://dcs.ug.edu.gh/video-bg.mp4"></iframe>
+         <iframe src="https://dcs.ug.edu.gh/video-bg.mp4?autoplay=1" width="404px" height="271px" frameborder="0" allow="accelerometer;  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title ="Ug overview"allowfullscreens ></iframe>
+
           If you are inspired by a big challenge, you've come to the right place! The computer science community at the univrersity of Ghana encourages it's people to be vibrant and brave in taking on new challenges that push boundries beyond imagination.
         </p>
     </section>
