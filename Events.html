@@ -50,6 +50,31 @@
             background-color: #fff;
             border: 1px solid #ddd;
         }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -73,21 +98,42 @@
     </nav>
 
     <section>
-        <h2>Events</h2>
+        <h2>Upcoming Events</h2>
 
         <div class="event">
             <h3>Guest Lecture Series</h3>
-            <p>Date: April 15, 2023</p>
+            <p>Date: December 18-20, 2023</p>
             <p>Time: 2:00 PM - 4:00 PM</p>
             <p>Location: Lecture Hall 101</p>
             <p>Description: Join us for an insightful guest lecture on the latest trends in artificial intelligence.</p>
         </div>
 
         <div class="event">
-            <h3>Hackathon 2023</h3>
-            <p>Date: May 20-22, 2023</p>
+            <h3>Hackathon 2024</h3>
+            <p>Date: January 20-22, 2024</p>
             <p>Location: Computer Science Lab</p>
             <p>Description: Participate in our annual hackathon and showcase your coding skills. Exciting prizes await!</p>
+        </div>
+        <title>Event Registration Form</title>
+        <div>
+            <h2>Event Registration Form</h2>
+
+    <form action="process_registration.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="events">Select Events:</label>
+        <select id="events" name="events" multiple required>
+            <option value="event1">Guest Lecture Series</option>
+            <option value="event2">Hackathon 2024</option>
+            <option value="event3">Others</option>
+        </select>
+
+        <button type="submit">Register</button>
+    </form>
         </div>
 
         

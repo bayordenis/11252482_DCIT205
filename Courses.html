@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+            margin: 5;
+            padding: 2em;
             background-color: #f4f4f4;
         }
 
@@ -41,7 +41,7 @@
             background-color: #333;
             color: #fff;
             text-align: center;
-            padding: 1em;
+            padding: 5em;
         }
 
         .course {
@@ -84,26 +84,47 @@
         <a href="Contact us.html">Contact Us</a>
     </nav>
 
-    <section>
+    <secti>
         <h2>Courses</h2>
+        <img src="downloadcourses.jpeg"alt="Enlarged Image"> </img>
 
-        <div class="course" onclick="toggleCourseDetails('course1')">
-            <h3>Course Title 1</h3>
-            <p>Instructor: Dr. John Doe</p>
-            <div id="course1-details" class="course-details">
+        <div class="course" onclick="toggleCourseDetails('Computer Science')">
+            <h3>Computer Science</h3>
+            <p>
+                <b>Introduction to Computer Science:</b></br>
+
+This course is often the starting point for students and covers fundamental concepts in computer science.
+ Topics may include programming basics, algorithms, data structures, and an introduction to problem-solving in the context of computing.
+            </p>
+            <p>
+                <b> Programming Courses:</b></br>
+
+These courses delve into specific programming languages such as Python, Java, C++, or others. Students learn the syntax, semantics, and best practices associated with these languages.
+ Advanced programming courses may cover topics like software design patterns and development methodologies.
+            </p>
+            <p>
+                <b> Web Development:</b></br>
+
+This course covers technologies and practices related to building websites and web applications. Topics may include HTML, CSS, JavaScript, and web frameworks.
+            </p> <p>For more details, click on the link below</p>
+           <a href="https://www.ug.edu.gh/ce/academics/course_schedule" >Summary of Courses</a>
+            <div id="Computer Science-details" class="course-details">
                 <p>Course Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 <p>Prerequisites: None</p>
             </div>
         </div>
 
-        <div class="course" onclick="toggleCourseDetails('course2')">
-            <h3>Course Title 2</h3>
-            <p>Instructor: Dr. Jane Smith</p>
-            <div id="course2-details" class="course-details">
+        <div class="course" onclick="toggleCourseDetails('Information Technology')">
+            <h3>Information Technology</h3>
+            <p>Similar courses are offered here just that Computer Science has more Mathematics in it then that of the Information Technology.
+                So click on the above link for more info.
+            </p>
+            <div id="Information Technology-details" class="course-details">
                 <p>Course Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 <p>Prerequisites: Intro to Computer Science</p>
             </div>
         </div>
+
 
         
 
