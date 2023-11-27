@@ -11,25 +11,25 @@ Begin by cloning the repository using the git clone <repository-url> command, pl
 Next, open your preferred code editor to edit and customize the HTML, CSS, Javascript and React components. Implement your redesign or introduce new features while ensuring thorough testing to validate functionality. To prepare for production, execute npm run build and deploy the contents of the build folder to your chosen hosting platform.
 For version control, consider committing your changes and pushing them to your repository with git add ., git commit -m "Improved Computer Science Department website", and git push origin main. Now the project is being cloned and set up.
 Summarized steps:
-.Open a command prompt and give the following commands
-.git init
-.git clone https://github.com/example/repo.git
-.git clone --no-checkout https://github.com/example/repo.git new_directory
-.git checkout -b feature-branch
-.git add .
-.git commit -m "Initial commit"
-.git push origin main branch
+.Open a command prompt and give the following commands</br>
+.git init</br>
+.git clone https://github.com/example/repo.git</br>
+.git clone --no-checkout https://github.com/example/repo.git new_directory</br>
+.git checkout -b feature-branch</br>
+.git add .</br>
+.git commit -m "Initial commit"</br>
+.git push origin main branch</br>
 
 SCEENSHOTS OF SOME OF THE WEB PAGES
-<img src="Screenshot (7).png" alt = "Page1"></img>
-<img src="Screenshot (8).png" alt = "Page2"></img>
-<img src="Screenshot (9).png" alt = "Page3"></img>
-<img src="Screenshot (10).png" alt = "Page4"></img>
-<img src="Screenshot (11).png" alt = "Page5"></img>
-<img src="Screenshot (12).png" alt = "Page6"></img>
-<img src="Screenshot (13).png" alt = "Page7"></img>
-<img src="Screenshot (14).png" alt = "Page8"></img>
-<img src="Screenshot (15).png" alt = "Page9"></img>
+<img src="Screenshot (7).png" alt = "Page1"></img></br>
+<img src="Screenshot (8).png" alt = "Page2"></img></br>
+<img src="Screenshot (9).png" alt = "Page3"></img></br>
+<img src="Screenshot (10).png" alt = "Page4"></img></br>
+<img src="Screenshot (11).png" alt = "Page5"></img></br>
+<img src="Screenshot (12).png" alt = "Page6"></img></br>
+<img src="Screenshot (13).png" alt = "Page7"></img></br>
+<img src="Screenshot (14).png" alt = "Page8"></img></br>
+<img src="Screenshot (15).png" alt = "Page9"></img></br>
 
 
 WHAT I HAVE LEARNT FROM THE PROJECT</br>
