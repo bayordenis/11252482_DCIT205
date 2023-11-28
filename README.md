@@ -21,6 +21,7 @@ Summarized steps:</br>
 .git commit -m "Initial commit"</br>
 .git push origin main branch
 
+![Homepage](./Screenshots/Screenshot%20(27).png)
 
 
 
