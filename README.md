@@ -22,6 +22,16 @@ Summarized steps:</br>
 .git push origin main branch
 
 ![Homepage](./Screenshots/Screenshot%20(27).png)
+![About Us](./Screenshots/Screenshot%20(28).png)
+![Still About Us](./Screenshots/Screenshot%20(30).png)
+![Programs](./Screenshots/Screenshot%20(31).png)
+![Faculty page](./Screenshots/Screenshot%20(32).png)
+![Research page](./Screenshots/Screenshot%20(33).png)
+![Student Resource](./Screenshots/Screenshot%20(34).png)
+![Events page](./Screenshots/Screenshot%20(35).png)
+![Still Events page](./Screenshots/Screenshot%20(36).png)
+![Contact Us page](./Screenshots/Screenshot%20(37).png)
+
 
 
 
