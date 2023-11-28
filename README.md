@@ -21,17 +21,8 @@ Summarized steps:</br>
 .git commit -m "Initial commit"</br>
 .git push origin main branch
 
-SCEENSHOTS OF SOME OF THE WEB PAGES
-<img src="Screenshot (7).png" alt = "Page1"></img></br>
-<img src="Screenshot (8).png" alt = "Page2"></img></br>
-<img src="Screenshot (9).png" alt = "Page3"></img></br>
-<img src="Screenshot (10).png" alt = "Page4"></img></br>
-<img src="Screenshot (11).png" alt = "Page5"></img></br>
-<img src="Screenshot (12).png" alt = "Page6"></img></br>
-<img src="Screenshot (13).png" alt = "Page7"></img></br>
-<img src="Screenshot (14).png" alt = "Page8"></img></br>
-<img src="Screenshot (15).png" alt = "Page9"></img></br>
-<img src="downloadug.jpeg" alt = "Ug loggo"></img>
+
+
 
 WHAT I HAVE LEARNT FROM THE PROJECT</br>
 Developing the enhanced Computer Science Department website using HTML, CSS, JavaScript, and React has been a valuable learning experience. This project deepened my understanding of front-end technologies, allowing me to seamlessly integrate dynamic features and responsive design principles. The project emphasized the significance of user experience, prompting me to prioritize accessibility and usability in the redesign or feature additions. Additionally, deploying the website and managing version control highlighted the importance of efficient workflows and collaboration. Overall, this project has enriched my proficiency in web development, providing hands-on experience in creating functional, aesthetically pleasing websites while navigating the complexities of modern front-end frameworks.I am now formiliar with most of the technical terms that were being mention in class and those I came across in my personal studies.
