@@ -18,9 +18,10 @@ Summarized steps:</br>
 .git clone --no-checkout https://github.com/example/repo.git new_directory</br>
 .git checkout -b feature-branch</br>
 .git add .</br>
-.git commit -m "Initial commit"</br>
+.git commit -m "Commit Message"</br>
 .git push origin main branch
 
+SCREENSHOTS OF THE WEB PAGES
 ![Homepage](./Screenshots/Screenshot%20(27).png)
 ![About Us](./Screenshots/Screenshot%20(28).png)
 ![Still About Us](./Screenshots/Screenshot%20(30).png)
@@ -36,4 +37,4 @@ Summarized steps:</br>
 
 
 WHAT I HAVE LEARNT FROM THE PROJECT</br>
-Developing the enhanced Computer Science Department website using HTML, CSS, JavaScript, and React has been a valuable learning experience. This project deepened my understanding of front-end technologies, allowing me to seamlessly integrate dynamic features and responsive design principles. The project emphasized the significance of user experience, prompting me to prioritize accessibility and usability in the redesign or feature additions. Additionally, deploying the website and managing version control highlighted the importance of efficient workflows and collaboration. Overall, this project has enriched my proficiency in web development, providing hands-on experience in creating functional, aesthetically pleasing websites while navigating the complexities of modern front-end frameworks.I am now formiliar with most of the technical terms that were being mention in class and those I came across in my personal studies.
+Developing the enhanced Computer Science Department website using HTML, CSS, JavaScript, and React has been a valuable learning experience. This project deepened my understanding of front-end technologies, allowing me to seamlessly integrate dynamic features and responsive design principles. The project emphasized the significance of user experience, prompting me to prioritize accessibility and usability in the redesign or feature additions. Additionally, deploying the website and managing version control highlighted the importance of efficient workflows and collaboration. Overall, this project has enriched my proficiency in web development, providing hands-on experience in creating functional, aesthetically pleasing websites while navigating the complexities of modern front-end frameworks.I am now formiliar with most of the technical terms that were being mentioned in class and those I came across in my personal studies.
